@@ -1,0 +1,20 @@
+#include<stdio.h>
+#include<conio.h>
+
+int main() {
+
+    int a, b;
+
+    printf("enter two integer positive number");
+    scanf("%d%d", &a, &b);
+    if(a>0 && b>0)
+
+    if(a>b)
+        printf("%d is the greateast", a);
+        else
+            ("%d is the greatest", b);
+        else
+            printf("please enter the positive integer number");
+            
+return 0;
+}
